@@ -1,0 +1,169 @@
+[
+  {
+    "name": "STUFF A",
+    "level": 0
+  },
+  {
+    "name": "STUFF A01",
+    "level": 1,
+    "parent": "STUFF A"
+  },
+  {
+    "name": "Books",
+    "level": 2,
+    "parent": "STUFF A01"
+  },
+  {
+    "name": "Movies",
+    "level": 2,
+    "parent": "STUFF A01"
+  },
+  {
+    "name": "Music",
+    "level": 2,
+    "parent": "STUFF A01"
+  },
+  {
+    "name": "STUFF A02",
+    "level": 1,
+    "parent": "STUFF A"
+  },
+  {
+    "name": "Games",
+    "level": 2,
+    "parent": "STUFF A02"
+  },
+  {
+    "name": "Electronics",
+    "level": 2,
+    "parent": "STUFF A02"
+  },
+  {
+    "name": "Computers",
+    "level": 2,
+    "parent": "STUFF A02"
+  },
+  {
+    "name": "STUFF A03",
+    "level": 1,
+    "parent": "STUFF A"
+  },
+  {
+    "name": "Home",
+    "level": 2,
+    "parent": "STUFF A03"
+  },
+  {
+    "name": "Garden",
+    "level": 2,
+    "parent": "STUFF A03"
+  },
+  {
+    "name": "Tools",
+    "level": 2,
+    "parent": "STUFF A03"
+  },
+  {
+    "name": "Clothing",
+    "level": 2,
+    "parent": "STUFF A03"
+  },
+  {
+    "name": "STUFF B",
+    "level": 0
+  },
+  {
+    "name": "STUFF B01",
+    "level": 2,
+    "parent": "STUFF B"
+  },
+  {
+    "name": "Grocery",
+    "level": 2,
+    "parent": "STUFF B01"
+  },
+  {
+    "name": "Health",
+    "level": 2,
+    "parent": "STUFF B01"
+  },
+  {
+    "name": "STUFF B02",
+    "level": 2,
+    "parent": "STUFF B"
+  },
+  {
+    "name": "Beauty",
+    "level": 2,
+    "parent": "STUFF B02"
+  },
+  {
+    "name": "Toys",
+    "level": 2,
+    "parent": "STUFF B02"
+  },
+  {
+    "name": "STUFF B03",
+    "level": 2,
+    "parent": "STUFF B"
+  },
+  {
+    "name": "Kids",
+    "level": 2,
+    "parent": "STUFF B03"
+  },
+  {
+    "name": "STUFF C",
+    "level": 0
+  },
+  {
+    "name": "STUFF C01",
+    "level": 3,
+    "parent": "STUFF C"
+  },
+  {
+    "name": "Baby",
+    "level": 2,
+    "parent": "STUFF C01"
+  },
+  {
+    "name": "Shoes",
+    "level": 2,
+    "parent": "STUFF C01"
+  },
+  {
+    "name": "STUFF C02",
+    "level": 3,
+    "parent": "STUFF C"
+  },
+  {
+    "name": "Jewelery",
+    "level": 2,
+    "parent": "STUFF C02"
+  },
+  {
+    "name": "Sports",
+    "level": 2,
+    "parent": "STUFF C02"
+  },
+  {
+    "name": "Outdoors",
+    "level": 2,
+    "parent": "STUFF C02"
+  },
+  {
+    "name": "STUFF C03",
+    "level": 3,
+    "parent": "STUFF C"
+  },
+  {
+    "name": "Automotive",
+    "level": 2,
+    "parent": "STUFF C03"
+  },
+  {
+    "name": "Industrial",
+    "level": 2,
+    "parent": "STUFF C03"
+  }
+]

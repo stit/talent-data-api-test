@@ -1,0 +1,26 @@
+[
+  {
+    "userId": "fsKUCzIc8HSFGqeC",
+    "email": "junior.salesrep@stit.talent",
+    "password": "ymWK5FHn27gjd9clZTR8QfZWOIBQTh1m",
+    "roles": ["junior"]
+  },
+  {
+    "userId": "QyoEdqbf2WyzeRtj",
+    "email": "middle.salesrep@stit.talent",
+    "password": "9fiD2NCGeLqjSSjhUP78kDS3ic2B93Wy",
+    "roles": ["middle"]
+  },
+  {
+    "userId": "Tqj5A3eWjDosQPl7",
+    "email": "senior.salesrep@stit.talent",
+    "password": "Scl2opcPUOEcTd0abrSBxwHsDuHklEs2",
+    "roles": ["senior"]
+  },
+  {
+    "userId": "ylxevDYHqelz3J0l",
+    "email": "intern.salesrep@stit.talent",
+    "password": "Or63inluKBLPs006vw9diRmzdCjYLB9H",
+    "roles": ["intern"]
+  }
+]
