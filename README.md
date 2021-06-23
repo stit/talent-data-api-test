@@ -125,18 +125,17 @@ Aqui pode ser passado o nome de qualquer entrada de organization, independente d
 
 ## Requisitos não-funcionais
 
-- Os dados do arquivo `products.txt` não deve ser carregado de forma integral em memória. SUGESTÃO: Utiliza streams.
-
 - A autenticacão do usuário deve ser feita através de alguma implementacão de JWT.
 
 - Se julgar necessário manter sessão, deve ser feito de forma independente de server.
 
+- Instruções para instalacão e execucão da API, incluindo as dependências de libs, runtimes, e etc.
+
 - A API deve ser escalável horizontalmente.
 
-- Manual de instalacão de execucão da API, incluindo as dependências de libs, runtimes, e etc.
+## Bonus! (Não obrigatório)
 
-## Diferenciais
-
+- Não carregar os dados do arquivo `products.txt` de forma integral em memória. SUGESTÃO: Utilize streams.
 - Implementacão de testes unitários.
 - Implementacão de testes integrados através de feature files.
 - Execucão em container.
